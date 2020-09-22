@@ -1,5 +1,10 @@
 ## Contacts
 
+🐘 Dedicated project to test what I'm learning with PHP .
+
+`Web preview`
+![](web-preview.gif)
+
 ## Release history
 
 * 0.0.2
