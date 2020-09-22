@@ -1,0 +1,136 @@
+* {
+    outline:none;
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins', sans-serif;
+}
+body {
+    background-color:#222;
+}
+.container {
+    width:1208px;
+    display:flex;
+    justify-content:space-between;
+}
+.column {
+    flex-direction:column;
+}
+a {
+    color:#FFF;
+    font-size:25px;
+    font-weight:400;
+    text-decoration:none;
+}
+h2 {
+    margin:0;
+    padding:0;
+    color:#222;
+    font-size:30px;
+    font-weight:700;
+    text-decoration:none;
+}
+header {
+    height:106px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+header a {
+    color:#FFF;
+    font-weight:700;
+    font-size:40px;
+}
+section {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+section .container {
+    padding:30px;
+    align-items:flex-end;
+    border-radius:10px;
+    background-color:#FFF;
+}
+.add {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width:184px;
+    height:50px;
+    border-radius:6px;
+    margin-bottom:20px;
+    background:linear-gradient(180deg, #007DE7 0%, #04A2F4 100%);
+    background-color:#007DE7;
+}
+table {
+    width:100%;
+}
+table th {
+    color:#7B7B7B;
+    font-weight:400;
+    font-size:25px;
+    text-align:left;
+    padding-bottom:20px;
+}
+table td {
+    color:#454544;
+    font-weight:400;
+    font-size:20px;
+    text-align:left;
+    padding-bottom:10px;
+}
+table td a {
+    padding-right:30px;
+}
+#edit .container,
+#add .container {
+    align-items:center;
+}
+form {
+    display:flex;
+    width:100%;
+}
+#edit input,
+#add input {
+    width:100%;
+    height:60px;
+    color:#7B7B7B;
+    font-weight:400;
+    font-size:25px;
+    padding:10px;
+    margin-bottom:10px;
+    border-radius:6px;
+    border:2px solid #007DE7;
+}
+#edit label,
+#add label {
+    font-size:18px;
+}
+#edit input[type="submit"],
+#add input[type="submit"] {
+    border:0px;
+    color:#FFF;
+    cursor:pointer;
+    font-weight:700;
+    font-size:25px;
+    background:linear-gradient(180deg, #007DE7 0%, #04A2F4 100%);
+}
+@media (max-width:1208px) {
+    .container {
+        margin-left:10px;
+        margin-right:10px;
+    }
+}
+@media (max-width:900px) {
+    table th {
+        font-size:22px;
+    }
+    table td {
+        font-size:18px;
+    }
+    td a img {
+        width:20px;
+        height:20px;
+    }
+}
