@@ -13,11 +13,11 @@ Gabriel de Jesus – (https://www.gabrieldesenvolvedor.com/) – contato@gabriel
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-[https://github.com/devgabrieldejesus/mvc](https://github.com/devgabrieldejesus/)
+[https://github.com/devgabrieldejesus/contacts](https://github.com/devgabrieldejesus/)
 
 ## Contributing
 
-1. Fork it (<https://github.com/devgabrieldejesus/mvc/fork>)
+1. Fork it (<https://github.com/devgabrieldejesus/contacts/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
