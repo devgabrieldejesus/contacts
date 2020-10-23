@@ -90,7 +90,7 @@ ou baixe o zip do botão verde no início do repositório
 * 0.0.1
     * Trabalho em progresso
 
-## 📝
+## 📝 Meta
 
 Gabriel de Jesus – [My portfolio](https://www.gabrieldesenvolvedor.com/) – oi@gabrieldesenvolvedor.com
 
