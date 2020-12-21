@@ -40,10 +40,6 @@ or download the zip from the green button at the beginning of the repository
 
 <img src="https://i.ibb.co/3M5CXKm/clone-zip.png" alt="Download zip" border="0">
 
-## 💻 Configuration for development
-
-To run the project just run the file: `index.html`, type a text in the text area and click on read.
-
 ## 🗃 Release history
 
 - 0.1.0
